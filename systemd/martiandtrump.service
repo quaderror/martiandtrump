@@ -1,0 +1,7 @@
+[Unit]
+Description=Martian Donald Trump translation bot
+
+[Service]
+Type=oneshot
+ExecStart=/path/to/martiandtrump.py
+User=YourUsername
